@@ -1,0 +1,6 @@
+{
+  "name": "multi-account",
+  "owner": { "name": "Keliorw" },
+  "description": "Several Claude Code accounts with shared memory, and a status line showing the active one",
+  "plugins": [{ "name": "multi-account", "source": "./" }]
+}
