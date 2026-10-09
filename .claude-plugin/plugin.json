@@ -1,6 +1,9 @@
 {
   "name": "multi-account",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Status line with the active Claude account (email · model · folder) and a skill that sets up several Claude Code accounts with shared memory",
-  "author": { "name": "Keliorw" }
+  "author": {
+    "name": "Keliorw"
+  },
+  "types": "./types/index.d.ts"
 }
